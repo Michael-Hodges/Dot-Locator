@@ -32,7 +32,7 @@ The function takes the following steps to find the dots.
 * Minimum Enclosing circle for each contour found
 * Filter outliers using K-Nearest Neighbors with distance
 
-#### Accuracy
+### Accuracy
 Visual inspection shows of the output image shows that the accuracy of the
 current dot locator does not meet the specs provided (e.g. 0.02, 0.1, and 0.2
 pixels). Using a subpixel edge detector as specified in 
