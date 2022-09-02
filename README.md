@@ -48,7 +48,6 @@ to itself.
 
 Examples are as follows:
 * Outlier Removal:
-(./dots.png)
 ![Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/dots_located.png?raw=true)
 * No Outlier Removal:
 ![No Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/dots_unfiltered.png?raw=true)
