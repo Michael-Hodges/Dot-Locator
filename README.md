@@ -48,9 +48,9 @@ to itself.
 
 Examples are as follows:
 * Outlier Removal:
-![Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/dots_located.png?raw=true)
+![Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/blob/main/dots_located.png?raw=true)
 * No Outlier Removal:
-![No Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/dots_unfiltered.png?raw=true)
+![No Outlier Removal](https://github.com/Michael-Hodges/Dot-Locator/blob/main/dots_unfiltered.png?raw=true)
 
 ## Running Tests
 ```
